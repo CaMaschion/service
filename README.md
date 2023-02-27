@@ -32,6 +32,8 @@ Intent(this, ExampleService::class.java).also { intent ->
 
 O código demonstra um serviço customizado, mas é recomendado usar o **WorkManager** para a maioria dos casos.
 
+Fontes:
+
 [https://developer.android.com/guide/background](https://developer.android.com/guide/background)
 
 Link do tutorial: https://www.youtube.com/watch?v=z9zYHugV_Fg
